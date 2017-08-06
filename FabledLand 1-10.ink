@@ -1,33 +1,7 @@
-//Character variables. Here will be placed all variables like , health etc. when we finally decide what we need.
-VAR health = 
-VAR CHARISMA =
-VAR COMBAT = 
-VAR MAGIC =
-VAR SANCTITY = 
-VAR SCOUTING = 
-VAR THIEVERY =
-VAR STAMINA = 
-Etc.
-
-
-Inventory Items - same as above
-VAR money = 1
-VAR coded_missive = false
-etc.
-
-Codewords - codewords will be included here
-VAR acid = false
-
-
-
-
-
-
-
+->start
 === start ===
 
-//  Intro PARAGRAPH 1
-    -       The  approach  of  dawn  has  turned  the  sky  a  milky  grey-green,
+            The  approach  of  dawn  has  turned  the  sky  a  milky  grey-green,
             like jade. The sea is a luminous pane of silver. Holding the tiller
             of  your  sailing  boat,  you  keep  your  gaze  fixed  on  the  glittering
             constellation  known  as  the  Spider.  It  marks  the  north,  and  by
